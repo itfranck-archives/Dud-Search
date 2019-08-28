@@ -3,4 +3,6 @@
 
 ## How to use.
 
-To use, you will need to compile first through the Build.ps1 file
+See the demo files in order to see how to integrate it into your project. 
+
+This component was tested against Universal Dashboard 2.5.3
