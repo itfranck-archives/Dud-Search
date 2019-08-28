@@ -58,7 +58,7 @@ typings/
 .env
 
 public/
-output/
+
 
 classes/bin
 classes/obj
