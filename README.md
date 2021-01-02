@@ -1,3 +1,14 @@
+## Attention
+Note that this componenet is no longer maintained. 
+
+
+Use [UniversalDashboard.UDNavbarSearch](https://www.powershellgallery.com/packages/UniversalDashboard.UDNavbarSearch) made by [PSDevUK](https://github.com/psDevUK) instead (see relevant [article](https://psdevuk.github.io/ud-flix/Page-Filtering-Highlight-Components/) about it).
+
+
+
+
+
+
 # Dud-Search
  Search bar custom component for universal dashboard
 
